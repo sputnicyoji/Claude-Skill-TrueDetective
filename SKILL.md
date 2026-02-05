@@ -1,6 +1,6 @@
 ---
 name: true-detective-universal
-description: Universal root cause analysis for any codebase. Hypothesis-driven, parallel exploration, no fixing. Use when debugging bugs, investigating errors, or analyzing unexpected behavior in any language or framework.
+description: 通用根因分析工具，适用于任意代码库。假设驱动，并行探索，只分析不修复。用于调试 Bug、排查错误、分析异常行为，支持任何语言和框架。 | Universal root cause analysis for any codebase. Hypothesis-driven, parallel exploration, no fixing. Use when debugging bugs, investigating errors, or analyzing unexpected behavior in any language or framework.
 ---
 
 # True Detective Universal - 通用根因分析专家
